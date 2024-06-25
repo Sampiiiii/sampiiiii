@@ -25,10 +25,6 @@
 
 ###
 
-<p align="left">I don't know everything, I only know what I know.</p>
-
-###
-
 <p align="left">Engineering at <a href="https://usebow.com">BOW</a></p>
 
 ###
