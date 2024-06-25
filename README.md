@@ -29,6 +29,6 @@
 
 ###
 
-<p align="left">Engineering at[BOW](https://usebow.com)</p>
+<p align="left">Engineering at<a href="https://usebow.com">BOW</a></p>
 
 ###
