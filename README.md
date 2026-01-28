@@ -25,6 +25,6 @@
 
 ###
 
-<p align="left">engineering at <a href="https://usebow.com">BOW</a></p>
+<p align="left">engineering at <a href="https://olo-robotics.com">OLO-Robotics</a></p>
 
 ###
